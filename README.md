@@ -35,7 +35,7 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| 🔢 계산기 앱 | JavaScript로 만든 키보드 입력 가능한 계산기 | [바로가기](https://github.com/KYUNG-BOK/calculator_12) |
+| 🔢 계산기 앱 | JavaScript로 만든 키보드 입력 가능한 계산기 | [바로가기](https://github.com/KYUNG-BOK/calculator) |
 | 📦 바코드 관리 시스템 | React + Ag-Grid 기반 바코드 생성 및 조회 시스템 | [바로가기](https://github.com/KYUNG-BOK/barcode-system) |
 | 📝 회원가입 UI | 체크박스, 모달 팝업 구현이 포함된 회원가입 폼 | [바로가기](https://github.com/KYUNG-BOK/signup-form) |
 
