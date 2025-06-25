@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F79DC6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" />
-
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
