@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F79DC6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F79DC6&center=true&vCenter=true&width=435&lines=Welcome+to+kyungbok's+GitHub+profile!" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 목표
+## 🎯 저의 목표
 > 좋은 개발자란 코드를 잘 짜는 사람 이전에, 끊임없이 개선하려는 사람이다.  
 > ⏳ 하루하루 기록하고, 성장하며, 협업 가능한 개발자를 목표로 하고 있습니다.
 
