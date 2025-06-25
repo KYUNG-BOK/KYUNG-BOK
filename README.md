@@ -35,9 +35,9 @@
 
 | 프로젝트 | 설명 | 링크 | 진행상황 |
 |----------|------|------|------|
-| 🔢 계산기 앱 | JavaScript로 만든 키보드 입력 가능한 계산기 | [바로가기](https://github.com/KYUNG-BOK/calculator) | 완료 |
-| 📦 바코드 관리 시스템 | React + Ag-Grid 기반 바코드 생성 및 조회 시스템 | [바로가기](https://github.com/KYUNG-BOK/barcode-system) | 목업서버 연동완료 |
-| 📝 회원가입 UI | 체크박스, 모달 팝업 구현이 포함된 회원가입 폼 | [바로가기](https://github.com/KYUNG-BOK/signup-form) | 목업서버 연동중 |
+| 🔢 계산기 앱 | JavaScript로 만든 키보드 입력 가능한 계산기 | [바로가기](https://github.com/KYUNG-BOK/calculator) | ✅ 완료 |
+| 📦 바코드 관리 시스템 | React + Ag-Grid 기반 바코드 생성 및 조회 시스템 | [바로가기](https://github.com/KYUNG-BOK/barcode-system) | 🟢 목업 서버 연동 완료 |
+| 📝 회원가입 UI | 체크박스, 모달 팝업 구현이 포함된 회원가입 폼 | [바로가기](https://github.com/KYUNG-BOK/signup-form) | 🟡 목업 서버 연동 중 |
 
 > ✨ 더 많은 프로젝트는 제 GitHub 저장소에서 확인하실 수 있어요!
 
