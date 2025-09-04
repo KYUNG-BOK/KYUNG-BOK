@@ -29,10 +29,18 @@ _"작은 실천이 큰 변화를 만든다"_ 를 믿으며,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+**UI & Animation**  
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?logo=framer&logoColor=white)
+![daisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/ShadcnUI-000000?logo=radixui&logoColor=white)
+![clsx](https://img.shields.io/badge/clsx-000000?logo=javascript&logoColor=white)
+![tailwind-merge](https://img.shields.io/badge/tailwind--merge-06B6D4?logo=tailwindcss&logoColor=white)
+
 **Tools & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+
 
 ---
 
