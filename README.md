@@ -13,7 +13,7 @@
 ## Introduction
 
 안녕하세요.  
-프론트엔드 개발자 **윤경복(Kyungbok)**입니다.
+프론트엔드 개발자 윤경복(Kyungbok)입니다.
 
 React와 TypeScript를 중심으로  
 **사용자가 자연스럽게 이해할 수 있는 UI**,  
